@@ -1,7 +1,7 @@
 # python-challenge
 
-**PyBank Python Code**
-**Make sure when running that file path in the terminal is PyBank/Resources to run properly**
+**#PyBank Python Code**
+**#Make sure when running that file path in the terminal is PyBank/Resources to run properly**
 
 import csv
 
@@ -54,8 +54,8 @@ with open('financial_analysis.txt', 'w') as file:
 
 
 
-**PyPoll Python Code**
-**Make sure when running that file path in the terminal is PyPoll/Resources to run properly**
+**#PyPoll Python Code**
+**#Make sure when running that file path in the terminal is PyPoll/Resources to run properly**
 
 import csv
 import os
